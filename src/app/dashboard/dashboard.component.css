@@ -1,0 +1,39 @@
+#log-out{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    text-decoration: none;
+}
+
+#log-out:hover{
+    cursor: pointer;
+    opacity: .7;
+}
+
+.side{
+    position: absolute;
+    text-align: center;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    height: 100vh;
+    width: 20vw;
+    background-color: grey;
+}
+
+.side a{
+    padding: 20px;
+    margin-top: 10vh;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.side a:hover{
+    opacity: .6;
+}
+
+.side h1{
+    margin-top: 10vh;
+}

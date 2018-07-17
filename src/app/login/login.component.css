@@ -1,0 +1,12 @@
+#login{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    text-decoration: none;
+}
+#login:hover{
+    cursor: pointer;
+    opacity: .7;
+}

@@ -1,0 +1,12 @@
+
+input{
+    width: 50vw;
+}
+
+#first-name{
+    width: 24vw;
+    margin-right: 2vw;
+}
+#last-name{
+    width: 24vw;
+}
