@@ -4,13 +4,13 @@
 
 
 input{
-    width: 50vw;
+    width: 25vw;
 }
 
 #first-name{
-    width: 24vw;
-    margin-right: 2vw;
+    width: 12vw;
+    margin-right: 1vw;
 }
 #last-name{
-    width: 24vw;
+    width: 12vw;
 }
